@@ -1,0 +1,22 @@
+{
+  "name": "npm-ornek-proje",
+  "version": "1.0.0",
+  "description": "say hello to Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erhankaraarslan/npm-ornek-proje.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "Erhan Karaarslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erhankaraarslan/npm-ornek-proje/issues"
+  },
+  "homepage": "https://github.com/erhankaraarslan/npm-ornek-proje#readme"
+}
